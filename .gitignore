@@ -2,3 +2,6 @@
 *
 !/**/
 !*.*
+
+# Ignore cargo build
+*/target
